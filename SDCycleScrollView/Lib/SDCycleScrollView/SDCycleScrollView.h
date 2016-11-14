@@ -37,6 +37,7 @@
 
 typedef enum {
     SDCycleScrollViewPageContolAlimentRight,
+    SDCycleScrollViewPageContolAlimentTop,
     SDCycleScrollViewPageContolAlimentCenter
 } SDCycleScrollViewPageContolAliment;
 
